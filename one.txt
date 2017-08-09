@@ -3,3 +3,4 @@ This is second line from master
 This is a new line from master
 This is third line from master
 This is fourth line from hotfix
+This is fifth line from hotfix2
