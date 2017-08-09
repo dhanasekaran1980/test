@@ -1,2 +1,4 @@
 Hi, this is one.txt
 This is second line from master
+This is third line from master
+This is fourth line from hotfix
