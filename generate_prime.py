@@ -1,3 +1,3 @@
 import time
 print time.time()
-print time.sleep()
+print time.sleep(4)
